@@ -4,7 +4,7 @@ A visually appealing and interactive Flutter application designed to showcase a 
 
 **Last Updated:** July 5, 2025
 
-![Flutter Roadmap App Screenshot](https://placehold.co/600x400/007BFF/FFFFFF?text=App+Screenshot+Here)
+![Flutter Roadmap App Screenshot](https://ibb.co/WWBCG1kx)
 
 ---
 
