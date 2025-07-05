@@ -79,7 +79,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## 📝 To-Do / Future Enhancements
 
-* [ ] Use the `url_launcher` package to open resource links in a browser.
 * [ ] Add state persistence so that the user's progress is saved between app sessions.
 * [ ] Implement animations for a more engaging user experience.
 * [ ] Add custom fonts like 'Inter' to the `pubspec.yaml` and asset folders.
